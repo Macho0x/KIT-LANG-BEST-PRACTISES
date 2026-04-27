@@ -1,4 +1,4 @@
-# Kit Lang Trading Bot — Documentation Architecture
+# Kit Lang Trading Bot — Documentation Architecture (Kit Lang version 2026.4.24)
 
 This project uses a **three-layer documentation system** designed for both human developers and AI agents. Each document has a distinct role, and together they ensure correct, safe, and maintainable code.
 
