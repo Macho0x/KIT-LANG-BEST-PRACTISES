@@ -6,7 +6,7 @@ This project uses a **three-layer documentation system** designed for both human
 
 ## `AGENTS.md` — The Compass (Always Loaded)
 
-This is the **primary context document** for AI agents and the first file any developer should read. It contains the project's non-negotiable safety rules (e.g., never use `Type!` in trading code, never use `??` for market data), module architecture, naming conventions, and build commands. It also includes a **Quick FAQ** and a **Section Index** that let agents resolve syntax ambiguities by targeting specific line ranges in `SYNTAX.md` — without ever loading the full reference into memory.
+This is the **primary context document** for AI agents (Cursor, Claude Code, Codex etc.) and the first file any developer should read. It contains the project's non-negotiable safety rules (e.g., never use `Type!` in trading code, never use `??` for market data), module architecture, naming conventions, and build commands. It also includes a **Quick FAQ** and a **Section Index** that let agents resolve syntax ambiguities by targeting specific line ranges in `SYNTAX.md` — without ever loading the full reference into memory.
 
 ---
 
